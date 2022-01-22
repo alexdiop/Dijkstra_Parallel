@@ -4,7 +4,7 @@ Parallel implementation of Dijkstra's shortest path algorithm using MPI
 Compile:  mpicxx -o dijkstraMPI dijkstraMPI.cpp
 Run:      mpirun -np <p> ./dijkstraMPI <graphFile>
 
-Format of Graph File:
+#Format of Graph File:
 
 Num of Vertices
 Vertex 1
@@ -23,7 +23,7 @@ Edge 2
 .
 Edge n
 
-EXAMPLE Graph File:
+#EXAMPLE Graph File:
 8
 A
 B
