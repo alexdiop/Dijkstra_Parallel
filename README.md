@@ -6,7 +6,7 @@ Run:      mpirun -np <p> ./dijkstraMPI <graphFile>
 
 Format of Graph File:
 
-# of Vertices
+Num of Vertices
 Vertex 1
 Vertex 2
 Vertex 3
@@ -14,7 +14,7 @@ Vertex 3
 .
 .
 Vertex n
-# of Edges
+Num of Edges
 Edge 1
 Edge 2
 Edge 2
